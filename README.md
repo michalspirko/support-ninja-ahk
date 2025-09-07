@@ -82,8 +82,7 @@ Ticket: {{ticket:Ticket Number}}
 ## Hotkeys
 
 - `Ctrl+Shift+L` - Show response list
-- `Ctrl+Shift+S` - Show shortcuts overlay
-- `Ctrl+Shift+R` - Show response menu
+- `Ctrl+Shift+S` - Show shortcut categories list
 - `Ctrl+Shift+F12` - Reload configuration
 
 ## Installation
@@ -91,7 +90,7 @@ Ticket: {{ticket:Ticket Number}}
 1. Install [AutoHotkey v2](https://www.autohotkey.com/)
 2. Download the script files
 3. Configure your responses and shortcuts
-4. Run `helper.ahk`
+4. Run `support-ninja.ahk`
 
 ## Credits
 
