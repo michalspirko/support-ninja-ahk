@@ -964,7 +964,7 @@ A_TrayMenu.Add("Reload Script", (*) => Reload())
 A_TrayMenu.Add()  ; Separator
 A_TrayMenu.Add("Exit", (*) => ExitApp())
 A_TrayMenu.Default := "Response List"
-A_IconTip := "Michal's Helper"
+A_IconTip := "Support Ninja AHK"
 
 ; Startup notification
-TrayTip("Ctrl+Shift+S for shortcuts list`nCtrl+Shift+L for response list`nCtrl+Shift+F12 to reload configs", "Michal's Helper", 0x1)
+TrayTip("Ctrl+Shift+S for shortcuts list`nCtrl+Shift+L for response list`nCtrl+Shift+F12 to reload configs", "Support Ninja AHK", 0x1)
