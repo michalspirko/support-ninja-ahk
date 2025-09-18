@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Documentation
 about: Describe this issue template's purpose here.
 title: Documentation Template
 labels: documentation
